@@ -98,10 +98,10 @@ Interactive generation with creative writing examples and custom prompts.
 
 | Metric | Value |
 |--------|-------|
-| Final Training Loss | [Insert value] |
-| Validation Perplexity | [Insert value] |
+| Final Training Loss | 0.471 |
+| Validation Perplexity | 23.51 |
 | Trainable Parameters | ~0.37% of total |
-| Training Time | [Insert time] |
+| Training Time | 6h |
 
 ### 3. Model Analysis
 
