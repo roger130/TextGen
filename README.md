@@ -15,7 +15,7 @@ A specialized GPT-2 model fine-tuned for creative writing tasks using LoRA (Low-
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/roger130/TextGen.git
 cd creativewriting-gpt
 
 # Install dependencies
