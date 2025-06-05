@@ -69,27 +69,26 @@ Interactive generation with creative writing examples and custom prompts.
 <!-- Insert example generations here -->
 
 ### Example 1: Fantasy Story
-**Prompt**: "Once upon a time in a magical forest,"
+**Prompt**: "Once upon a time in a kingdom far away,"
 
 **Generated Text**:
 ```
-[Insert generated fantasy story example here]
+"Once upon a time in a kingdom far away from its homeland, the kingdom of God chose the young man who was to be his heir. The young man chose his father, whom he loved dearly. This young man, now his heir, was the son of a man who had passed away in the past. A year had passed since the King chose the young man for his heir. The young man's mother, now her last wish, was slain in battle. The King, a man who had loved his father dearly, was sent to fight to the death to protect his father from the plague. The young man was buried in a pit and buried with the King's body. A few days later, the King's mother was slain and his father"
 ```
 
 ### Example 2: Science Fiction
-**Prompt**: "In the year 2050, humans discovered"
+**Prompt**: "The future of artificial intelligence"
 
 **Generated Text**:
 ```
-[Insert generated sci-fi example here]
-```
+"The future of artificial intelligence is likely to be a big topic of debate among researchers.\n\nA new study from MIT's Institute for Artificial Intelligence and Machine Learning, which is affiliated with the International Institute for Computational Biology, shows that researchers in the United States are already developing software that could help humans in certain tasks.\n\nIn this study, researchers analyzed computer programs that perform tasks such as search and recall, which are used to improve human cognitive performance."```
 
 ### Example 3: Mystery/Thriller
-**Prompt**: "She walked into the room and immediately noticed"
+**Prompt**: "In a world where magic was forbidden,"
 
 **Generated Text**:
 ```
-[Insert generated mystery example here]
+"In a world where magic was forbidden, the magical world was in danger of becoming a war zone. A group of sorcerers and wizards began to battle the warlords. One wizard managed to break the spell in his hand and win the war. The warlord called a truce and the war was over. A few years later, the warlord called a truce. The warlords had finally broken their spell and now the warlord's magic had been banished.\n\nMagic is not magic, but a war zone. When magic is banned, magic is the result of the war that created magic. Today, Magic is outlawed in the United States. Today, Magic is banned in countries like France, Russia, and China. Magic is illegal in the Middle East, as well. Magic is prohibited in the West, as well. Magic is banned in every country, including Japan. Magic is banned in all places in the world, including the United States. Magic is banned in China and Russia."
 ```
 
 ## Model Performance
