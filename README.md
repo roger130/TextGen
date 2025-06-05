@@ -291,17 +291,3 @@ If you use this code in your research, please cite the relevant papers:
 }
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## Acknowledgments
-
-- HuggingFace Transformers for the model implementations
-- PEFT library for LoRA implementation
-- Captum for interpretability methods
-- The open-source datasets used for training
