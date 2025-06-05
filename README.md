@@ -81,7 +81,8 @@ Interactive generation with creative writing examples and custom prompts.
 
 **Generated Text**:
 ```
-"The future of artificial intelligence is likely to be a big topic of debate among researchers.\n\nA new study from MIT's Institute for Artificial Intelligence and Machine Learning, which is affiliated with the International Institute for Computational Biology, shows that researchers in the United States are already developing software that could help humans in certain tasks.\n\nIn this study, researchers analyzed computer programs that perform tasks such as search and recall, which are used to improve human cognitive performance."```
+"The future of artificial intelligence is likely to be a big topic of debate among researchers.\n\nA new study from MIT's Institute for Artificial Intelligence and Machine Learning, which is affiliated with the International Institute for Computational Biology, shows that researchers in the United States are already developing software that could help humans in certain tasks.\n\nIn this study, researchers analyzed computer programs that perform tasks such as search and recall, which are used to improve human cognitive performance."
+```
 
 ### Example 3: Mystery/Thriller
 **Prompt**: "In a world where magic was forbidden,"
