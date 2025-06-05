@@ -157,11 +157,30 @@ The training pipeline automatically combines creative writing data from:
 ![Attention Visualization](results/attention_layer6.png)
 ![Attention Visualization](results/attention_layer11.png)
 
+
+**Key Findings:**
+- **Layer 0**: Exhibits local, diagonal attention patterns where tokens primarily attend to themselves or immediate neighbors
+- **Layer 6**: Develops subject-focused attention with several heads concentrating on the sentence subject ("She") while maintaining some syntactic connections
+- **Layer 11**: Shows strong subject-centric attention collapse, with most heads treating the grammatical subject as the central anchor for final representations
+
 ### Token Importance Analysis
 *Understanding which words drive creative generation*
 
 ![Gradient Analysis](results/gradients.png)
 ![Perturbation Analysis](results/perturbation.png)
+
+**Integrated Gradients Results:**
+- **"noticed" (1.00)**: Highest importance as the final token directly influencing next-token prediction
+- **"She" (0.40)**: Critical subject anchor that propagates through all layers
+- **"room", "immediately" (0.15-0.21)**: Moderate importance for contextual details
+
+**Perturbation Analysis Results:**
+- **"walked" (1.00)**: Most sensitive token - replacing the main verb causes largest distribution shifts
+- **"and" (0.83)**: High sensitivity as conjunctions significantly alter sentence flow
+- **"noticed" (0.43)**: Lower perturbation impact since it only affects final position
+
+**Key Insights:**
+The model demonstrates a clear progression from local syntactic processing (early layers) to global semantic understanding (late layers), with different importance methods revealing complementary aspects of creative text generation.
 
 ## Interpretability Methods
 
