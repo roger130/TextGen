@@ -181,18 +181,3 @@ class GPT2Interpretability:
         with open(os.path.join(self.out, "results.json"), "w", encoding="utf-8") as f:
             json.dump(results, f, ensure_ascii=False, indent=2)
 
-def run_full_analysis():
-    model = GPT2Interpretability()
-    sentences = [
-        "The scientist discovered that the new compound could",
-        "Once upon a time in a magical forest",
-        "The future of artificial intelligence will",
-        "She walked into the room and immediately noticed"
-    ]
-    for sent in sentences:
-        model.compare_methods(sent)
-    print(f"All analyses complete. Check the '{model.out}' directory for outputs.")
-
-if __name__ == "__main__":
-    run_full_analysis()
-
