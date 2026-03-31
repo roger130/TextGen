@@ -1,7 +1,6 @@
 # CreativeWritingGPT: A Fine-tuned Model for Creative Text Generation
 
-A specialized GPT-2 model fine-tuned for creative writing tasks using LoRA (Low-Rank Adaptation), with comprehensive interpretability analysis to understand model behavior in creative text generation.
-
+A specialized GPT-2 model fine-tuned for creative writing tasks using LoRA (Low-Rank Adaptation), with comprehensive interpretability analysis to understand model behavior
 ## Features
 
 - **Creative Writing Specialization**: Fine-tuned on creative writing datasets for improved storytelling
